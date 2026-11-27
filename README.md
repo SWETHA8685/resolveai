@@ -197,6 +197,7 @@ Open the local URL displayed in your terminal.
 - Multi-user collaboration and role-based access.
 
 ## 📸 Screenshots
+https://drive.google.com/file/d/1_RizYO3FFOzTLl68NWudTuxolQeir_b6/view?usp=sharing
 
 Screenshots of the application dashboard, incident analysis results, and incident details will be added here.
 
